@@ -1,0 +1,8 @@
+U1, U2, U3 - Monolitic Power Systems MP2489
+R1, R2, R3 - 0.6ohm 1% sense resistor
+D1, D2, D3 - 1n5817 Schottky
+L1, L2, L3 - 68uH power inductor (>350mA)
+Q1, Q2, Q3 - 2n3904 PNP BJT
+C1, C2, C3, C4 - 0.1uF ceramic capacitor
+C5 - ~220uF >16V electrolytic
+R4, R5, R6 - ~10kohm 5%
